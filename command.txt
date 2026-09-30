@@ -1,0 +1,1 @@
+$env:PATH="C:\raylib\w64devkit\bin;" + $env:PATH; C:\raylib\w64devkit\bin\gcc.exe .\ball.c -o ball.exe -I C:\raylib\raylib\src -L C:\raylib\raylib\src -lraylib -lopengl32 -lgdi32 -lwinmm
